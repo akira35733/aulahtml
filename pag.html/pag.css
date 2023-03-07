@@ -1,6 +1,11 @@
 .principal{
 background:#BA55D3;
 }
+.gif {
+    text-align: center;
+  padding: 15px;
+}
+
 .titulo-principal{
 text-align: center;
 font-size: 50px;
@@ -31,10 +36,10 @@ ul{
   margin-right: inherit;
 }
 #aaa{
-  width: 15%;
+  width: 20%;
 }
 #bbb{
-  width: 40%;
+  width: 20%;
 }
 .bg{
   background-image: url(popo.jpg);
@@ -42,3 +47,4 @@ ul{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+ }
