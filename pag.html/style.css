@@ -1,5 +1,5 @@
 header{
-  background: #696969;
+  background: #DA70D6;
 }
 .caixa{
   position: relative;
@@ -29,7 +29,14 @@ form{
 }
 .input-padrao{
   display: block;
-  margin: 0 0 20px;
-  padding: 10px 25px;
+  margin: 0 0 15px;
+  padding: 20px 25px;
   width: 50%;
+  border-radius: 25px;
+}
+#h2{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 27px;
 }
