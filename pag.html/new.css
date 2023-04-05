@@ -14,10 +14,11 @@ nav{
 nav li{
   display: inline;
   margin: 0 0 0 15px;
+  color: #000000;
 }
 nav a{
   text-transform: uppercase;
-  color: #000000
+  color: #000000;
 }
 main{
   width: 940px;
@@ -49,6 +50,7 @@ form label, form legend {
   display: block;
   margin: 0 0 20px;
   padding: 10px 25px;
+  color: white;
 }
 .checkbox{
   margin: 20px 0;
@@ -56,7 +58,7 @@ form label, form legend {
 .enviar{
   width: 40%;
   padding: 15px 0;
-  background: #BA55D3;
+  background: #red;
   color: white:
   font-weight:bold;
   font-size: 18px;
@@ -66,9 +68,8 @@ form label, form legend {
   cursor: pointer;
 }
 .enviar:hover{
-background: rgb(236,126,220);
-background: radial-gradient(circle, rgba(236,126,220,1) 0%, rgba(216,143,238,1) 100%);
-
+  background: rgb(219,217,0);
+  background: radial-gradient(circle, rgba(219,217,0,0.8295693277310925) 0%, rgba(209,61,61,1) 100%);
   transform: scale(1.2);
 }
 
@@ -77,26 +78,20 @@ table{
 }
 
 thead{
-  background:#BA55D3;
+  background:#000000;
   color: white;
   font-weight: bold;
 }
 
 td, th{
-  border: 1px solid   #8B008B;
+  border: 1px solid   #000000;
   padding: 8px 15px;
+  background: #000000;
+  color: white;
+
 }
 footer{
   text-align: center;
-  background: 	#EE82EE;
+  background: 	#000000;
   padding: 40px 0;
-}
-
-.copyright{
-  color: #8B008B;
-  font-size: 15px;
-  margin: 20px 0 0;
-}
-main{
-
 }
