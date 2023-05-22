@@ -1,0 +1,8 @@
+.h1{
+    padding: 3em 0;
+  	background: linear-gradient(45deg, #800000, #B22222, #FA8072, #FF7F50, #FF6347);
+}
+ .h2{
+   padding: 3em 0;
+   background: linear-gradient(-45deg, #800000, #B22222, #DC143C, #B22222,	#E9967A, #A52A2A, #8B0000);
+ }
